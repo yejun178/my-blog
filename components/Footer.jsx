@@ -10,7 +10,7 @@ export default function Footer() {
       }}
     >
       <Col span={24}>
-        <p>© 2021 Mark Lee. All rights reserved.</p>
+        <p>© 2022 예준. All rights reserved.</p>
       </Col>
     </Row>
   );

@@ -19,7 +19,7 @@ export default function Header() {
                 fontWeight: "bold",
               }}
             >
-              <CodeOutlined /> Mark's Blog
+              <CodeOutlined /> Yejun's Devlog
             </div>
           </a>
         </Link>
